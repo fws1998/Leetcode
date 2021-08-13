@@ -1,4 +1,6 @@
 import java.util.EmptyStackException;
+import java.util.HashMap;
+import java.util.Scanner;
 import java.util.Stack;
 
 class Solution20 {

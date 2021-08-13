@@ -18,5 +18,7 @@ public class Solution02 {
                 l2 = l2.next;
             }
         }
+        return null;
     }
+
 }

@@ -17,5 +17,7 @@ public class Solution45 {
     public static void main(String[] args) {
         Solution45 solution45  =new Solution45();
         solution45.jump(new int[]{2, 3, 1, 1, 4});
+        
     }
+
 }

@@ -9,4 +9,8 @@ public class Node {
         this.val = val;
         this.neighbours = arrayList;
     }
+
+    public Node(int val) {
+        this.val = val;
+    }
 }
